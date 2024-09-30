@@ -1,0 +1,10 @@
+let n = function() {}
+let b = Symbol()
+
+displayThisText(typeof(xy1));
+displayThisText(typeof(true));
+displayThisText(typeof(1));
+displayThisText(typeof(1234n));
+displayThisText(typeof(b));
+displayThisText(typeof(null));
+displayThisText(typeof(n));
